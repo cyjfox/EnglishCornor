@@ -6,7 +6,7 @@ android {
             storePassword '2253501'
             keyAlias = 'EnglishCornor'
             keyPassword '2253501'
-            storeFile file('E:\\workspace\\EnglishCornor\\sign.jsk')
+            storeFile file('D:\\workspace\\EnglishCornor\\sign.jks')
         }
     }
     compileSdkVersion 29
